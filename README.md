@@ -1,29 +1,19 @@
-# Hey, Leo Here 👋
+# Leo
 
-Builder at the intersection of **AI and Creative Media**.
+Builder at the intersection of AI and creative media. Currently shaping Privacy Preserving AI infrastructure through federated learning and blockchain.
 
-Currently building decentralized AI infrastructure with federated learning and blockchain.
+## Background
 
-## ⚡ About Me
+Filmmaker turned tech builder. Former media strategist at a global 4A agency, with stops in GameFi and visual storytelling along the way. Now I vibecode, turning ideas into products through AI-assisted development, and crafting videos that make complex technology feel human.
 
-Former documentary filmmaker, media strategist at 4A, and GameFi explorer. 
+## Focus
 
-Now I spend most of my time **vibecoding** 🎧 — turning ideas into products with AI-assisted development — and crafting videos that make complex tech feel human.
+AI Agents. Model Training. DAO Governance.
 
-## 🔧 What I'm Into
+## Tools
 
-- 🤖 AI agents, decentralized AI, federated learning
-- ⛓️ Blockchain, DAO governance, tokenomics
-- 🎬 Video production & visual storytelling
-- 🐍 Python / Solidity / TypeScript — learning by building
-- 🛠️ Vibecoding with Claude Code, Cursor
+Claude Code. Cursor. OpenClaw. Figma. Notion
 
+## Connect
 
-## 🌐 Find Me
-
-[![NextMe](https://img.shields.io/badge/NextMe-createpjf-blue)](https://nextme.one/createpjf)
-[![Twitter](https://img.shields.io/badge/Twitter-@createpjf-1DA1F2?logo=twitter&logoColor=white)](https://twitter.com/createpjf)
-
----
-
-*"The best way to understand something is to build it — or film it."*
+*The best way to understand something is to build it — or film it.*
